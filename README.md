@@ -1,4 +1,4 @@
 # first-repo
 Leading to the basics.
 <br>
-Author-nitin kumar
+Author-nitin kumar (munna bhaiyagit)
